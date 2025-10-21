@@ -334,3 +334,7 @@ class Curriculum_subject_model extends MY_Model
         }
 
 }
+
+                /**
+                 * this is my activity 2 in itec 111
+                 */
